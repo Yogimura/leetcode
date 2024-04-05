@@ -1,3 +1,5 @@
+package LongestPalindrome;
+
 public class LongestPalindrome {
     public static void main(String[] args) {
         Solution mais = new Solution();

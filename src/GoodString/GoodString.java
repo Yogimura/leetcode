@@ -1,3 +1,5 @@
+package GoodString;
+
 public class GoodString {
     public static void main(String[] args) {
         Solution1 example = new Solution1();
